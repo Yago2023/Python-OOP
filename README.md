@@ -1,1 +1,1 @@
-This is the project for OOP project
+This is the project for OOP learning
