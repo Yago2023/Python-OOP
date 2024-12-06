@@ -14,7 +14,7 @@ class Item:
         return self.price * self.quantity
 
     def appply_discount(self):
-        self.price = self.price * Item.pay_rate
+        self.price = self.price * Item.pay_rate   #diferença entre Item.pay_rate e self.pay_rate
 
 item1 = Item("Phone", 300 , 5)
 
